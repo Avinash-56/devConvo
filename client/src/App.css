@@ -17,7 +17,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-size: rem;
   line-height: 1.6;
-  background-color: #fff;
+  background-color: azure;
   color: #333;
 }
 
@@ -132,7 +132,6 @@ img {
   color: red;
   padding: 0.4rem 1.3rem;
   font-size: 1.5rem;
-  box-shadow: 10px 10px 5px grey;
   border: none;
   cursor: pointer;
   margin-right: 0.5rem;
